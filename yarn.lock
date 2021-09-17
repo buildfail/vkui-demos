@@ -956,19 +956,15 @@
     es6-object-assign "1.1.0"
     svg-baker-runtime "1.4.6"
 
-"@vkontakte/vk-bridge@^2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@vkontakte/vk-bridge/-/vk-bridge-2.3.0.tgz#d436daeab23bf51a4485a3a45493f793dab78187"
-  integrity sha512-1kICD4u5J8EO4PyGg7ZMBwOju85Wh7zb5OxVs1JYB/ghTHg5YQSmpIx9M4NZH2TnK9KelUpBEs+TwFpkB5PMyw==
+"@vkontakte/vk-bridge@^2.4.8":
+  version "2.4.8"
+  resolved "https://registry.yarnpkg.com/@vkontakte/vk-bridge/-/vk-bridge-2.4.8.tgz#379bbd24a059490426a33a0818e240d7ec8860a7"
+  integrity sha512-YGTZZsm9OO/JRRBM6HHGCPMN3yiQcBUxFLCK7bCUcFWvWghFZdWQvPtuCKXONwhBMwp1Wo90kSV5rXSvJA8lOQ==
 
 "@vkontakte/vkjs@^0.16.0":
   version "0.16.0"
   resolved "https://registry.yarnpkg.com/@vkontakte/vkjs/-/vkjs-0.16.0.tgz#345a98453d8ed12dcc6c0d1316bcd520e44b748c"
   integrity sha512-XkRSveyHtjAZTk7F7L9x4j172mZacsgLblJcnonQGavGvenixxHtHWG/LAk6XYTDLxC81thwnYdlRXYdZox+iA==
-
-"@vkontakte/vkui@https://github.com/VKCOM/VKUI.git#feature/vkui-embed":
-  version "4.0.0-beta.37"
-  resolved "https://github.com/VKCOM/VKUI.git#2a7485ba9603d898964254bbb9dc99995e62148a"
 
 "@vkontakte/vkui@https://github.com/VKCOM/VKUI.git#v4":
   version "4.0.0-beta.37"
