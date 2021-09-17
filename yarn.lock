@@ -948,13 +948,13 @@
     "@types/prop-types" "*"
     csstype "^3.0.2"
 
-"@vkontakte/icons@^1.60.0":
-  version "1.60.0"
-  resolved "https://registry.yarnpkg.com/@vkontakte/icons/-/icons-1.60.0.tgz#98088d587c306fc92b407d96a7df1fcba5a71743"
-  integrity sha512-ho8riAN3uRyy8bM8cJdB03mjO724tNtQOZWEL3o617JK2+Fbv6tVsSe5l8/z3JXp1Sa2AxX/nmJf6833eSlbZw==
+"@vkontakte/icons@^1.125.0":
+  version "1.128.1"
+  resolved "https://registry.yarnpkg.com/@vkontakte/icons/-/icons-1.128.1.tgz#103918cdc3ba4780bf3583aa46537c4e33f8a0a4"
+  integrity sha512-cUY5h1cO1nLe+nyBWOSZ5KXugOnxMpUe+K1j2PHajOEOcF24R15NjkH/1LFtwYWtFg2Du/uJCZERL+KA82UK4w==
   dependencies:
     es6-object-assign "1.1.0"
-    svg-baker-runtime "1.4.6"
+    svg-baker-runtime "1.4.7"
 
 "@vkontakte/vk-bridge@^2.3.0":
   version "2.3.0"
@@ -965,10 +965,6 @@
   version "0.16.0"
   resolved "https://registry.yarnpkg.com/@vkontakte/vkjs/-/vkjs-0.16.0.tgz#345a98453d8ed12dcc6c0d1316bcd520e44b748c"
   integrity sha512-XkRSveyHtjAZTk7F7L9x4j172mZacsgLblJcnonQGavGvenixxHtHWG/LAk6XYTDLxC81thwnYdlRXYdZox+iA==
-
-"@vkontakte/vkui@https://github.com/VKCOM/VKUI.git#feature/vkui-embed":
-  version "4.0.0-beta.37"
-  resolved "https://github.com/VKCOM/VKUI.git#2a7485ba9603d898964254bbb9dc99995e62148a"
 
 "@vkontakte/vkui@https://github.com/VKCOM/VKUI.git#v4":
   version "4.0.0-beta.37"
@@ -4999,10 +4995,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svg-baker-runtime@1.4.6:
-  version "1.4.6"
-  resolved "https://registry.yarnpkg.com/svg-baker-runtime/-/svg-baker-runtime-1.4.6.tgz#73499736c636610121a9e17ae6ceb2ea1023ec6b"
-  integrity sha512-n+Uq23mafI12WLHXahkjSY00qHJaNfeB9XgVKdo0C4kzrcn8JnunXNajvOlqkFaTqj7xT7MwTlFl3Hga8AevcQ==
+svg-baker-runtime@1.4.7:
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/svg-baker-runtime/-/svg-baker-runtime-1.4.7.tgz#f4720637f5b6202eef6378d81f1fead0815f8a4e"
+  integrity sha512-Zorfwwj5+lWjk/oxwSMsRdS2sPQQdTmmsvaSpzU+i9ZWi3zugHLt6VckWfnswphQP0LmOel3nggpF5nETbt6xw==
   dependencies:
     deepmerge "1.3.2"
     mitt "1.1.2"
