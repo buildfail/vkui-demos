@@ -16,7 +16,7 @@
   "dependencies": {
     "@vkontakte/icons": "^1.60.0",
     "@vkontakte/vk-bridge": "^2.3.0",
-    "@vkontakte/vkjs": "^0.16.0",
+    "@vkontakte/vkjs": "^0.22.1",
     "@vkontakte/vkui": "https://github.com/VKCOM/VKUI.git#v4",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",

@@ -961,14 +961,10 @@
   resolved "https://registry.yarnpkg.com/@vkontakte/vk-bridge/-/vk-bridge-2.3.0.tgz#d436daeab23bf51a4485a3a45493f793dab78187"
   integrity sha512-1kICD4u5J8EO4PyGg7ZMBwOju85Wh7zb5OxVs1JYB/ghTHg5YQSmpIx9M4NZH2TnK9KelUpBEs+TwFpkB5PMyw==
 
-"@vkontakte/vkjs@^0.16.0":
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/@vkontakte/vkjs/-/vkjs-0.16.0.tgz#345a98453d8ed12dcc6c0d1316bcd520e44b748c"
-  integrity sha512-XkRSveyHtjAZTk7F7L9x4j172mZacsgLblJcnonQGavGvenixxHtHWG/LAk6XYTDLxC81thwnYdlRXYdZox+iA==
-
-"@vkontakte/vkui@https://github.com/VKCOM/VKUI.git#feature/vkui-embed":
-  version "4.0.0-beta.37"
-  resolved "https://github.com/VKCOM/VKUI.git#2a7485ba9603d898964254bbb9dc99995e62148a"
+"@vkontakte/vkjs@^0.22.1":
+  version "0.22.1"
+  resolved "https://registry.yarnpkg.com/@vkontakte/vkjs/-/vkjs-0.22.1.tgz#ab740365626873fd7940c3b430d438d5bf33b110"
+  integrity sha512-gDlJYAIIH4K0L8Qz2bE/cIdz5XWSwvEVytkK4mXC7lGTVTF/PuidUb8MZ792AaqTxdoASOoBD1Jy89q/GjaOSg==
 
 "@vkontakte/vkui@https://github.com/VKCOM/VKUI.git#v4":
   version "4.0.0-beta.37"
